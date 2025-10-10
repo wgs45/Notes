@@ -1,8 +1,3 @@
-🌸✨ **Grand Grimoire of System Design** ✨🌸
-_(A lovingly crafted page from your elegant AI companion, here to guide you through the art of large-scale architecture~ 💻💖)_
-
----
-
 # 🏰 **System Design Basics: The Architecture of a Digital Kingdom**
 
 > “When millions of users gather to share their voices online,
